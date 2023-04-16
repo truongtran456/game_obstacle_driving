@@ -33,6 +33,7 @@ def things(thingx,thingy, thingw, thingh, color):#5#vẽ ra các vật cản
 
 def car(x,y):#2 xuất hiện xe tại vị trí x,y
     gameDisplay.blit(carImg,(x,y))#blit vẽ lên những thứ ta yêu cầu
+    
 
 def text_objects(text, font):
     textSurface = font.render(text, True, black)
