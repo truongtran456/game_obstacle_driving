@@ -52,7 +52,6 @@ def message_display(text):#dinh dang font chu cho thong bao crash'#4
 def crash():#xuat thong bao'#3
     message_display('You Crashed')
 
-
 def game_loop():#1
     
     x=(display_width * 0.45)# tạo x,y là điểm bắt đầu
