@@ -115,3 +115,5 @@ def game_loop():#1
 game_loop()
 pygame.quit()#kết thúc
 quit()#thoát khỏi ứng dụng và pygame
+
+
